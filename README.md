@@ -19,3 +19,12 @@ Mi objetivo principal es estar al día con las últimas tecnologías y tendencia
 
 Me gusta buscar nuevos desafíos y oportunidades para mejorar, porque disfruto superando mis propios límites. Soy una persona proactiva, innovadora y comprometida con mi trabajo y mi equipo. En resumen, mi objetivo es ser el mejor en lo que hago, crecer profesionalmente y ser parte de un equipo exitoso y apasionado.
 
+## Habilidades:
+
+Frontend
+
+[#HTML5]() [#CSS]() [#(BEM)]() [#JavaScript (ES6)]() [#Typescript]() [#jest]() [#jQuery]() [#Bootstrap]() [#Material]() [#Design]() [#SASS]() [#PostCSS]() [#Jade]() [#Babel]() [#ES6]() [#Gulp]() [#Webpack]() [#Grunt]() [#Gulp]() [#Reactjs]() [#Vuejs]() [#npm]() [#bower]() [#git]() [#Jekyll]()
+
+Backend
+
+[#Nodejs (Express)]() [#PHP (Laravel, Codeigniter)]() [#Python (Django, Flask)]() [#Java(Liferay)]() [#SQL]() [#NoSQL]() [#MongoDB]() [#MySQL]() [#PostgreSQL]() [#Redis]() [#Git]() [#Github]() [#Bitbucket]() [#Gitlab]()
